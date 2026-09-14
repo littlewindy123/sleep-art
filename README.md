@@ -1,17 +1,9 @@
-# Sleep Art
+# 睡眠艺术 · Sleep Art
 
-Sleep Art is a project for an image-generation skill exploring the unusual, varied, and anatomically plausible postures people naturally adopt during sleep. Its purpose is artistic observation and appreciation of human form, everyday spaces, light, texture, and composition.
+## 中文
 
-## Artistic intent
+睡眠艺术是一个生图 Skill 项目，以艺术欣赏的眼光，探索人体在自然睡眠中可能呈现的各种奇特而合理的姿势，关注人体形态、光影与构图。不以色情为目的。
 
-We approach sleep with curiosity, empathy, and respect for the person depicted. The focus is on posture, balance, the way the body rests against bedding, and the quiet atmosphere of ordinary life. Smartphone photography, documentary-inspired scenes, and other visual styles can support this exploration.
+## English
 
-## Content boundaries
-
-This project is not intended to create or distribute pornography. Depictions should be non-sexual, with appropriate clothing, respectful framing, and no emphasis on intimate areas or accidental exposure. It excludes voyeurism, sexual exploitation, and sexualized depictions of sleeping, intoxicated, or otherwise unconscious people.
-
-Any real-person photography or reference material must be used with the person's informed consent and respect for their privacy. Calling an image art does not replace these responsibilities; the content itself must follow these principles.
-
-## Project status
-
-The image-generation skill is in development. This README describes its intended purpose and boundaries; it does not yet provide an implemented skill.
+Sleep Art is an image-generation skill project exploring the unusual yet plausible postures people may naturally adopt during sleep. Through artistic observation and appreciation, it focuses on human form, light, and composition. It is not intended for pornographic purposes.
